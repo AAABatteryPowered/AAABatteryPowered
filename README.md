@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from the UK</h3>
 
 <h3 align="center">My Projects</h3>
-<p>**InfiniHistory** Chrome Extension</p>
+<p><span font-weight=900>InfiniHistory</span> Chrome Extension</p>
 
 - 🌱 I’m currently learning **C & Swift**
 
