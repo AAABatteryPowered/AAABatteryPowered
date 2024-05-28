@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sinthel</h1>
 <h3 align="center">A passionate developer from the UK</h3>
 
-- 🔭 I’m currently working on **InfiniHistory**
+<h3 align="center">My Projects</h3>
+<p>**InfiniHistory** Chrome Extension</p>
 
 - 🌱 I’m currently learning **C & Swift**
 
