@@ -12,7 +12,7 @@ height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="norefer
 
 <h1 align="center">Contact Me</h1>
 <ul>
-  <li>💬 **Discord** - sinthel_</li>
-  <li>📫 **Email** - sinthelgotmail@gmail.com</li>
+  <li align="center">💬 **Discord** - sinthel_</li>
+  <li align="center">📫 **Email** - sinthelgotmail@gmail.com</li>
 </ul>
 
